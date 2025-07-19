@@ -5,6 +5,7 @@
 This is a **Long/Short Grid-Based Trading Bot** implemented using the **Binance API (Testnet)**.  
 It trades **BTC/USDT** automatically on the **1-minute timeframe** by polling Binance's REST API (no WebSocket required).
 
+- This is spot strategy not for future strategy
 ### Strategy Logic:
 
 - **Go Long** when returns are **low** and volume change is **normal**.
