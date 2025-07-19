@@ -45,9 +45,3 @@ It trades **BTC/USDT** automatically on the **1-minute timeframe** by polling Bi
 
 ---
 
-## Setup Instructions
-
-### 1️⃣ Install Dependencies
-
-```bash
-pip install python-binance pandas numpy
